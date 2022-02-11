@@ -1,6 +1,6 @@
 # Docker Challenge
 
-Create an golang docker image with less than 2MB.
+Create a golang docker image with less than 2MB.
 
 ## Link to the image:
 
